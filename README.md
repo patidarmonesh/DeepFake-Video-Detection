@@ -33,8 +33,7 @@ ISTVT_deepfake_det/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/saubhagyapandey27/ISTVT_deepfake_det/
-cd ee656_project
+git clone 
 ```
 
 2. **Install dependencies**
